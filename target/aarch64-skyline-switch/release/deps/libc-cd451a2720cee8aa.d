@@ -1,0 +1,10 @@
+D:\Users\Ryan\Documents\SmashClub\hack\skylineWorkspace\micromoveset\reslottableMoveset\target\aarch64-skyline-switch\release\deps\libc-cd451a2720cee8aa.rmeta: C:\Users\Ryan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.140\src\lib.rs C:\Users\Ryan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.140\src\macros.rs C:\Users\Ryan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.140\src\fixed_width_ints.rs C:\Users\Ryan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.140\src\switch.rs
+
+D:\Users\Ryan\Documents\SmashClub\hack\skylineWorkspace\micromoveset\reslottableMoveset\target\aarch64-skyline-switch\release\deps\liblibc-cd451a2720cee8aa.rlib: C:\Users\Ryan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.140\src\lib.rs C:\Users\Ryan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.140\src\macros.rs C:\Users\Ryan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.140\src\fixed_width_ints.rs C:\Users\Ryan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.140\src\switch.rs
+
+D:\Users\Ryan\Documents\SmashClub\hack\skylineWorkspace\micromoveset\reslottableMoveset\target\aarch64-skyline-switch\release\deps\libc-cd451a2720cee8aa.d: C:\Users\Ryan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.140\src\lib.rs C:\Users\Ryan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.140\src\macros.rs C:\Users\Ryan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.140\src\fixed_width_ints.rs C:\Users\Ryan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.140\src\switch.rs
+
+C:\Users\Ryan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.140\src\lib.rs:
+C:\Users\Ryan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.140\src\macros.rs:
+C:\Users\Ryan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.140\src\fixed_width_ints.rs:
+C:\Users\Ryan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.140\src\switch.rs:
